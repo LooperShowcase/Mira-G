@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(251, 224, 231);
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+h1 {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h2 {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#mg {
+  background-color: rgb(239, 207, 218);
+}
+#mr {
+  background-color: rgb(239, 207, 218);
+}
+#sk {background-color:rgb(239, 207, 218);}
+
+ul {
+  list-style-type: none;
+  margin: 5;
+  padding: 5;
+  overflow: hidden;
+  background-color: #efefef;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #e45b9f;
+}
